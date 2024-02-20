@@ -1,0 +1,12 @@
+/admin/node_modules
+/admin/.env
+/client/node_modules
+/client/.env
+/server/node_modules
+/server/.env
+/.DS_Store
+/server/.DS_Store
+/admin/.DS_Store
+/client/.DS_Store
+/client/.next
+/server/api.http
